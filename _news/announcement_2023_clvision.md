@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I will be challenge chair at the [CLVision workshop 2023](https://sites.google.com/view/clvision2023/organizers)
+I will be challenge chair at the [CLVision 2023](https://sites.google.com/view/clvision2023/organizers) workshop
