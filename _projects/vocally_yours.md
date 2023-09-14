@@ -8,14 +8,12 @@ category: work
 related_publications: #einstein1956investigations, einstein1950meaning
 ---
 
-Vocally Yours was a project funded by the Google News Initiative's DNI Fund, aimed at empowering and amplifying voices in underrepresented communities. The aim of the project was to provide training and resources to individuals and organizations from these communities, to help them tell their stories and share their perspectives through the power of digital media. The goal was to create a more inclusive and diverse news ecosystem, where a wider range of voices and perspectives could be heard.
+Vocally Yours was a project funded by the Google News Initiative's DNI Fund, aimed at empowering and amplifying voices in underrepresented communities. We trained and deployed different types of neural networks for text-to-speech synthesis for the German language.
 
 
 **Official Link:** [https://newsinitiative.withgoogle.com/dnifund/dni-projects/vocally-yours-round-5/](https://newsinitiative.withgoogle.com/dnifund/dni-projects/vocally-yours-round-5/)
 
-
 ----
-
 #### In the News
 
 

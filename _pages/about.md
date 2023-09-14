@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Hamed. I do research in machine learning, and I'm passionate about developing methods that enable artificial agents to learn, adapt, and evolve over time.
+Hey there! I'm Hamed. I do stuff with machine learning, and I'm interested in developing methods that enable artificial agents to learn, adapt, and evolve *over time*.

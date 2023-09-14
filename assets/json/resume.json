@@ -38,7 +38,7 @@
   // "volunteer": [],
   "education": [
     {
-      "institution": "University of St. Gallen, St. Gallen, Switzerland",
+      "institution": "University of St. Gallen, Switzerland",
       // "url": "https://www.uzh.ch/",
       "area": "Machine Learning",
       "studyType": "PhD",
@@ -50,12 +50,24 @@
       // ]
     },
     {
-      "institution": "University of Bern, Bern, Switzerland",
+      "institution": "University of Bern, Switzerland",
       // "url": "https://www.uzh.ch/",
       "area": "Computer Science",
       "studyType": "Master of Science",
       "startDate": "Sep 2016",
       "endDate": "Dec 2018",
+      "score": ""
+      // "courses": [
+      //   "Theory of Relativity"
+      // ]
+    },
+    {
+      "institution": "University of Mazandaran, Iran",
+      // "url": "https://www.uzh.ch/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "Sep 2011",
+      "endDate": "Aug 2015",
       "score": ""
       // "courses": [
       //   "Theory of Relativity"
@@ -75,21 +87,21 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "German",
-      "fluency": "Limited Working Proficiecy"
-    },
-    {
-      "language": "Persian",
-      "fluency": "Native"
-    }
+  // "languages": [
+  //   {
+  //     "language": "English",
+  //     "fluency": "Fluent"
+  //   },
+  //   {
+  //     "language": "German",
+  //     "fluency": "Limited Working Proficiecy"
+  //   },
+  //   {
+  //     "language": "Persian",
+  //     "fluency": "Native"
+  //   }
     
-  ],
+  // ],
   "interests": [],
   "references": [],
   "projects": []
