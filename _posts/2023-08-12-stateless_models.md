@@ -25,7 +25,7 @@ In this article, I'll briefly introduce the concept and demonstrate through exam
 Getting straight to the point, in PyTorch, the two state representations are defined as follows:
 
 
-**Stateful Models** are models whose state (aka the model's weights) is defined and stored instide the model class definition. When you create an instance of the model, it initializes the wieghts internally. <u>By default, PyTorch models are stateful</u>. Below is an example of a stateful MLP with one hidden layer:
+**Stateful Models** are models whose state (aka the model's weights) is defined and stored inside the model class definition. When you create an instance of the model, it initializes the wieghts internally. <u>By default, PyTorch models are stateful</u>. Below is an example of a stateful MLP with one hidden layer:
 
 ```python
 import torch.nn as nn
@@ -101,7 +101,7 @@ As you can see, in the stateless version, there are no module initializations wh
 
 > ##### TLDR
 >
-> "Stateless" models can be used for any type of problem, they but require manual management of the state and often involve more implementation effort. "Stateful" models are easier to implement, but can make life of a researcher or programmer harder in certain use cases. 
+> "Stateless" models can be used for any type of problem, but they require manual management of the state and often involve more implementation effort. "Stateful" models are easier to implement, but can make life of a researcher or programmer harder in certain use cases. 
 {: .block-tip }
 
 
